@@ -2,7 +2,7 @@
 
 ![ソースコードサイズ](https://img.shields.io/github/languages/code-size/anakin1359/TEST-README)
 
-[![Gem Version](https://badge.fury.io/rb/devise.svg)](https://badge.fury.io/rb/devise)https://badge.fury.io/rb/devise.svg
+[![Gem Version](https://badge.fury.io/rb/devise.svg)](https://badge.fury.io/rb/devise) https://badge.fury.io/rb/devise.svg
 
 
 
