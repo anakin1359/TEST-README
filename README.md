@@ -11,3 +11,6 @@
 
 ### github watchers
 ![GitHub watchers](https://img.shields.io/github/watchers/anakin1359/TEST-README?style=social)
+
+### github pull request
+![GitHub pull requests](https://img.shields.io/github/issues-pr/anakin1359/TEST-README?color=red&style=plastic)
