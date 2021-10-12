@@ -3,7 +3,7 @@
 ### code size
 ![ソースコードサイズ](https://img.shields.io/github/languages/code-size/anakin1359/batch_sample)
 
-### gem_ver
+### gem version
 [![Gem](https://img.shields.io/gem/v/devise?color=orange&label=devise&style=plastic)](https://badge.fury.io/rb/devise)
 
 ### circleCI
