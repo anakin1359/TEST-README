@@ -9,3 +9,5 @@
 ### circleCI
 [![anakin1359](https://circleci.com/gh/anakin1359/circle_app.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
+### github watchers
+https://img.shields.io/github/watchers/anakin1359/TEST-README?style=social
